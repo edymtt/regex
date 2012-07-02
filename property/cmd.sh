@@ -1,0 +1,1 @@
+sed -f input.sed input.vb > output.vb
