@@ -1,0 +1,1 @@
+XML taken from "http://www.idevelopment.info/data/Programming/java/xml/ExampleXMLandDTDFile.html":http://www.idevelopment.info/data/Programming/java/xml/ExampleXMLandDTDFile.html

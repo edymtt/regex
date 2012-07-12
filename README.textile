@@ -4,3 +4,4 @@ Regex exercises done with @sed@. The targeted version is the one shipped
 with OS X, thus I don't use any GNU extension.
 
 * _property_ - substitution of VB variables definition with property definition
+* _xml_ - deflattening for XML files
